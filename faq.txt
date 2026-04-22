@@ -12,3 +12,12 @@ A: You will need a valid passport, passport photos, and a completed application 
 
 Q: How can I contact you?
 A: Call us at +974 XXXX XXXX or visit our office at [your address].
+
+Q: I want to speak to someone directly
+A: Of course! Please contact our team directly on [your number] 
+or visit us at [your address]. Our working hours are 
+Sunday to Thursday, 8am to 6pm.
+
+Q: Can I book a consultation?
+A: Yes! To book a free consultation, please call or WhatsApp 
+us on [your number] and our team will assist you.
